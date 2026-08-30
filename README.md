@@ -1,4 +1,4 @@
-# Hey World, I'm Tair
+# Hi, I'm Tair
 
 I'm a web developer, mostly TypeScript. I also founded [STEM Central Asia](https://stemac.vercel.app), a student-led organization that helps students in six Central Asian countries get into STEM. I like making complex things as simple as possible.
 
