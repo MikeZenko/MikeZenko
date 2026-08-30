@@ -1,6 +1,6 @@
 # Hi, I'm Tair
 
-Everything below is in private repos, so no links. Happy to walk through any of it.
+Everything below is in private repos, so no links. Happy to walk you through any of it though!
 
 ## VividForms
 
