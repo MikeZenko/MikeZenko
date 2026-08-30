@@ -6,8 +6,6 @@ I'm a web developer, mostly TypeScript. I also founded [STEM Central Asia](https
 
 **[CarbonFlow](https://carbonflow.net)** ([repo](https://github.com/MikeZenko/carbonflow)). A live marketplace that matches carbon capture producers with industrial consumers. React on the front, Flask on the back. The matching is deliberately not an LLM: cosine similarity over engineered feature vectors, so you can see why a pair ranked where it did.
 
-[![CarbonFlow landing page](assets/carbonflow.png)](https://carbonflow.net)
-
 **[STEM Central Asia](https://stemac.vercel.app)** ([repo](https://github.com/MikeZenko/STEMAC)). The organization's website. React, TypeScript, Vite, Tailwind.
 
 **[HBA Foundation scholarship platform](https://github.com/MikeZenko/HBA_Foundation)**. A scholarship database for a foundation that helps students study abroad. Students submit scholarships they find, admins review them before they go live. Express and TypeScript backend, Next.js frontend.
