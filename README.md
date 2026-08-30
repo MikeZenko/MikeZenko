@@ -8,7 +8,7 @@ I'm a web developer, mostly TypeScript. I also founded [STEM Central Asia](https
 
 **[STEM Central Asia](https://stemac.vercel.app)** ([repo](https://github.com/MikeZenko/STEMAC)). The organization's website. React, TypeScript, Vite, Tailwind.
 
-**[HBA Foundation scholarship platform](https://github.com/MikeZenko/HBA_Foundation)**. A scholarship database for a foundation that helps students study abroad. Students submit scholarships they find, admins review them before they go live. Express and TypeScript backend, Next.js frontend.
+**[HBA Foundation scholarship platform](https://hbafg.vercel.app/scholarships)** ([repo](https://github.com/MikeZenko/HBA_Foundation)). A scholarship database for a foundation that helps students study abroad. Students submit scholarships they find, admins review them before they go live. Express and TypeScript backend, Next.js frontend. Deployed, though behind an access password: the foundation shares it privately with its students.
 
 ## What I'm working on now
 
